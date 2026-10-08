@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "Spronks DarkRP Pots"
+	"author_name" "Sproncker"
+	"info" " { 	"description": "Description", 	"type": "weapon", 	"tags":  	[ 		"fun", 		"build" 	] }"
+}
